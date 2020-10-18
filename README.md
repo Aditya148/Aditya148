@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1>Hi there 👋</h1>
 
 - 🔭 I’m currently working on Data Science Projects
 - 🌱 I’m currently learning EDA(Exploratory Data Analysis)
